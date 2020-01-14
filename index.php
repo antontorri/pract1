@@ -1,3 +1,3 @@
 <?php 
-echo "Hola mundo que tal?";
+echo "Hola mundo que tal están?";
 ?>
