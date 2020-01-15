@@ -1,3 +1,4 @@
 <?php 
-echo "Hola mundo que tal están, amigos? Espero que muy bien!!";
+echo "<script>alert('Hola mundo que tal están, amigos? Espero que muy bien!!')</script>";
+
 ?>
