@@ -1,0 +1,53 @@
+commit 9fd4f12d7d24e77c8364ec16e889c23933510dcf
+Author: Antonious <anton@torri.com>
+Date:   Wed Jan 15 11:47:50 2020 -0600
+
+    <?php echo json_encode(El momento se aproxima) ?>
+
+commit 96a3563a6e95d80df8039eb6a1f33365f49b36a6
+Author: Antonious <anton@torri.com>
+Date:   Wed Jan 15 08:56:04 2020 -0600
+
+    Cambio y fuera
+
+commit dcaad3d197316f8da556f92374d1003bf4fd2276
+Author: Antonious <anton@torri.com>
+Date:   Wed Jan 15 08:42:01 2020 -0600
+
+    <?= base_url('alumno_cont/index') ?>
+
+commit 3760545301e12aad7674acc8a58c9f31e39e392b
+Author: Antonious <anton@torri.com>
+Date:   Wed Jan 15 08:34:47 2020 -0600
+
+    <?= 'hola mundo'; ?>
+
+commit 3e7e637473c866495044365e2e7e2aecac47c633
+Author: Antonious <anton@torri.com>
+Date:   Tue Jan 14 16:54:59 2020 -0600
+
+    <?= base_url('alumno_controller/index') ?>
+
+commit dcfd4a9381c3551356e5975a2fa30c8022dd8eff
+Author: Antonious <anton@torri.com>
+Date:   Tue Jan 14 16:42:43 2020 -0600
+
+    Digiste la 11
+
+commit 8f6fd0396c9a6f6feefc3853be089c1e723ba0e9
+Author: Antonious <anton@torri.com>
+Date:   Tue Jan 14 16:37:44 2020 -0600
+
+    Prueba treeeees
+
+commit 1c3ea4e17a2a4fadab636f323b84599f913eac30
+Author: Antonious <anton@torri.com>
+Date:   Tue Jan 14 16:31:25 2020 -0600
+
+    Furulooooo
+
+commit 8ffb1f3876b03d84ae56d0d4b384e0a729e43aef
+Author: Antonious <anton@torri.com>
+Date:   Tue Jan 14 16:17:20 2020 -0600
+
+    First test
