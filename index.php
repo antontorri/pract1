@@ -1,3 +1,5 @@
 <?php 
-echo "<script>alert('Hola mundo que tal están, amigos? Espero que muy bien!!')</script>";
+echo "<script>
+alertify.notify('Yo se que puedo lograrlo', 'success', 10, null);
+</script>";
 ?>
